@@ -18,6 +18,6 @@ User.create!(email: 'admin@example.com',
     description: "Tourist Rome. 109 recensioni ... Se risiedi in un altro paese o in un'altra area
                  geografica, seleziona la versione appropriata di Tripadvisor dal menu a discesa.",
     price: 11.99,
-    catering_item: true
+    catering: true
   )
 end
